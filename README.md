@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Joris Pardekooper - Initial work - [YourGithub](https://github.com/JorisPaarde)
+- Joris Paardekooper - Initial work - [YourGithub](https://github.com/JorisPaarde)
 
 ## 🙏 Acknowledgments
 
